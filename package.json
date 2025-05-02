@@ -1,5 +1,5 @@
 {
-"name": "com.domybest.mybox",
+"name": "dev.schmiggolas.mybox",
 "version": "1.8.0",
 "displayName": "MyBox",
 "description": "MyBox is a set of attributes, tools and extensions for Unity",
@@ -8,10 +8,8 @@
 "dependencies": {
     "com.unity.ugui": "1.0.0"
 },
-"documentationUrl": "https://github.com/Deadcows/MyBox/wiki",
-
 "keywords": ["attributes", "extensions", "editor tools"],
 "author": { "name" : "Andrew Rumak",
-   "email" : "andrew@deadcow.ru",
-   "url" : "http://andrew@deadcow.ru/" }
+   "email" : "hello@schmiggolas.dev",
+   "url" : "https://schmiggolas.dev" }
 }
