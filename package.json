@@ -9,7 +9,7 @@
     "com.unity.ugui": "1.0.0"
 },
 "keywords": ["attributes", "extensions", "editor tools"],
-"author": { "name" : "Andrew Rumak",
+"author": { "name" : "Nicolas Teichtweier",
    "email" : "hello@schmiggolas.dev",
    "url" : "https://schmiggolas.dev" }
 }
